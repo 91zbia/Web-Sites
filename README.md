@@ -1,0 +1,20 @@
+# Minhas Atividades
+
+Aqui estão alguns dos meus sites que fiz nas aulas em HTML e CSS.  
+Cada projeto tem um link direto para abrir no navegador.
+
+---
+
+## Site sobre a Suíça
+Um site simples com informações sobre a Suíça.  
+[Ver site](https://91zbia.github.io/Web-Sites/Site%20sobre%20a%20Sui%C3%A7a/.html)
+
+---
+
+## Tabela Vermelha sobre o Sistema Solar
+Uma tabela estilizada com informações sobre os planetas do sistema solar.  
+[Ver site](https://91zbia.github.io/Web-Sites/Tabela%20vermelha%20sobre%20o%20Sistema%20Solar/tabelavermelha.html)
+
+---
+
+Vou atualizando esta lista conforme for criando mais sites ao longo das aulas.
