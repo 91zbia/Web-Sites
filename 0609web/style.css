@@ -1,0 +1,15 @@
+
+    table {
+      border-collapse: collapse;
+      width: 100%;
+      text-align: center;
+      font-family: Arial, sans-serif;
+      font-size: 14px;
+    }
+    th, td {
+      border: 4px double darkred;
+      background-color: white;
+      padding: 8px 12px;
+      vertical-align: middle;
+    }
+   
