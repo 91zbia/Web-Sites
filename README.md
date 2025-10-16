@@ -19,7 +19,7 @@ Uma tabela estilizada com informações sobre os planetas do sistema solar.
 
 ## Homem-Aranha
 Um site sobre o Homem-Aranha.  
-[Ver site](https://91zbia.github.io/Web-Sites/origem20%homem%aranha/index.html)
+[Ver site](https://91zbia.github.io/Web-Sites/3008web/)
 
 ---
 
