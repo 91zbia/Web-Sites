@@ -7,7 +7,7 @@ Cada projeto tem um link direto para abrir no navegador.
 
 ## Site sobre a Suíça
 Um site simples com informações sobre a Suíça.  
-[Ver site](https://91zbia.github.io/Web-Sites/Site%20sobre%20a%20Sui%C3%A7a/.html)
+[Ver site](https://91zbia.github.io/Web-Sites/Site%20sobre%20a%20Sui%C3%A7a/index.html)
 
 ---
 
@@ -19,7 +19,7 @@ Uma tabela estilizada com informações sobre os planetas do sistema solar.
 
 ## Homem-Aranha
 Um site sobre o Homem-Aranha.  
-[Ver site](https://91zbia.github.io/Web-Sites/3008web/homi.html)
+[Ver site](https://91zbia.github.io/Web-Sites/3008web/index.html)
 
 ---
 
