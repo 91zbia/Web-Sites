@@ -23,4 +23,9 @@ Um site sobre o Homem-Aranha.
 
 ---
 
+## Tabuleiro
+Um projeto de um tabuleiro e outras coisas feitos com HTML e CSS.  
+[Ver site](https://91zbia.github.io/Web-Sites/tabuleiro/)
+
+
 Vou atualizando esta lista conforme for criando mais sites ao longo das aulas.
